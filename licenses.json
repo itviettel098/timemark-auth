@@ -1,8 +1,8 @@
 {
  "users": {
   "admin": {
-   "salt": "2d9fb79a09166c568d33ecc94c1a4a25",
-   "hash": "7e155406afa77a095b38f9a7efd779215bedb636cfb7263dd4e5b08e918b5e50",
+   "salt": "27b25e67ab13f7c2f4954cfbaada760b",
+   "hash": "799998a91b31d87b35906c33654197ea980669e29815717bb6b9bb0859e163bf",
    "exp": "2045-12-23",
    "note": "Admin",
    "devices": [
@@ -16,6 +16,15 @@
    "note": "Nguyễn Ngọc Tài",
    "devices": [
     "EF88-7829-2A2D"
+   ]
+  },
+  "dangminhngoc": {
+   "salt": "3dd7bff88cd5dbbfa82855451055cf42",
+   "hash": "441a815802ffb47829a44c1877153738c03092c4def04a700281698dc8cec914",
+   "exp": "2045-12-23",
+   "note": "Admin",
+   "devices": [
+    "2100-0126-8B88"
    ]
   }
  }

@@ -8,6 +8,15 @@
    "devices": [
     "7880-45B5-1B52"
    ]
+  },
+  "admin": {
+   "salt": "01021d3b351f240b19ce969e70de24bf",
+   "hash": "95d5e42a63e630d368f7cd98f45e2979ab766bf17203fe5bd3fc205cb59387c5",
+   "exp": "2026-10-31",
+   "note": "Ngọc",
+   "devices": [
+    "E400-C8A4-B09B"
+   ]
   }
  }
 }

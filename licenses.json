@@ -1,14 +1,5 @@
 {
  "users": {
-  "admin": {
-   "salt": "27b25e67ab13f7c2f4954cfbaada760b",
-   "hash": "799998a91b31d87b35906c33654197ea980669e29815717bb6b9bb0859e163bf",
-   "exp": "2045-12-23",
-   "note": "Admin",
-   "devices": [
-    "2100-0126-8B88"
-   ]
-  },
   "nguyenngoctai": {
    "salt": "fd165821131c5c3a905b64593c292e36",
    "hash": "0de5d1df62715067a2566acc3ceb031efc5640bcd1e20f86c16d8c5c824ea686",
@@ -18,11 +9,11 @@
     "EF88-7829-2A2D"
    ]
   },
-  "dangminhngoc": {
-   "salt": "3dd7bff88cd5dbbfa82855451055cf42",
-   "hash": "441a815802ffb47829a44c1877153738c03092c4def04a700281698dc8cec914",
+  "admin": {
+   "salt": "c82524778a29e6e1b6eed81ed9e5980c",
+   "hash": "e10f6e1e59f8ba3e8c7ac726536610d1e3c8e8824f210d5e70e2d678af6060a7",
    "exp": "2045-12-23",
-   "note": "Admin",
+   "note": "đặng minh ngoc",
    "devices": [
     "2100-0126-8B88"
    ]

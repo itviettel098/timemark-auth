@@ -1,21 +1,12 @@
 {
  "users": {
   "admin": {
-   "salt": "13ab67332d69668ea7615ab3a5f60325",
-   "hash": "464cb8195162a47db39e29298d944eb3762c66b6516761c1f54cec5fc0e4355d",
+   "salt": "90bf827846bd2412d068a4c09eaa147e",
+   "hash": "b0a19d7625934aceeb357082d5610ec1644ff248ff2fd4233aa454092521617d",
    "exp": "2045-12-23",
    "note": "Admin",
    "devices": [
     "2100-0126-8B88"
-   ]
-  },
-  "tm1": {
-   "salt": "8a7ea87aad2d00bf803618bb50bdc4ef",
-   "hash": "d0daf1e31de750c19e94cbfa2438431f0c94ebe9031f4eebf95d1b2051bfa788",
-   "exp": "2026-10-24",
-   "note": "Test",
-   "devices": [
-    "DB6E-D237-4FEE"
    ]
   },
   "nguyenngoctai": {

@@ -1,12 +1,12 @@
 {
  "users": {
   "admin": {
-   "salt": "3f4b8597566ba7dcc3e75d9c4e715504",
-   "hash": "69c2c43f03736ac50460c3819c15dcd3e59784af1e1abee483dd01188787ae68",
-   "exp": "2026-10-31",
-   "note": "Ngọc",
+   "salt": "0e7a0498d3829a1621dabaae884abbad",
+   "hash": "427add175e98eeb045ea3c82a2b87e003cf56bf82c1f00cf86b03e6b231e654d",
+   "exp": "2052-10-31",
+   "note": "",
    "devices": [
-    "27AC-2721-6807"
+    "1127-2F48-9103"
    ]
   }
  }

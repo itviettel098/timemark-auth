@@ -17,6 +17,15 @@
    "devices": [
     "DB6E-D237-4FEE"
    ]
+  },
+  "nguyenngoctai": {
+   "salt": "fd165821131c5c3a905b64593c292e36",
+   "hash": "0de5d1df62715067a2566acc3ceb031efc5640bcd1e20f86c16d8c5c824ea686",
+   "exp": "2026-10-31",
+   "note": "Nguyễn Ngọc Tài",
+   "devices": [
+    "EF88-7829-2A2D"
+   ]
   }
  }
 }

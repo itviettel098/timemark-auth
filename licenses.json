@@ -10,8 +10,8 @@
    ]
   },
   "admin": {
-   "salt": "140a20b595b33c2be4142d03321750d4",
-   "hash": "b91631565d095a64055f290b03ac9269ea0d80d85d53df3dd2802b29551f6308",
+   "salt": "7e72cdaf77eafb59a0eeab40f90a9f17",
+   "hash": "0c7d67f3e2db8a82f851c538332768fdf6029754ab7937d04ec12d4f958cea0d",
    "exp": "2045-12-23",
    "note": "đặng minh ngoc",
    "devices": [

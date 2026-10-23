@@ -1,21 +1,12 @@
 {
  "users": {
-  "tm": {
-   "salt": "9a3cd6dcaba04ab9dbc4c1a62d5371bc",
-   "hash": "d4f60a9e43fa7c1e9083783f1959b43d5b3e5a4f3bd9ad1fcc18cf6ab51ac613",
-   "exp": "2026-10-31",
-   "note": "",
-   "devices": [
-    "7880-45B5-1B52"
-   ]
-  },
   "admin": {
-   "salt": "01021d3b351f240b19ce969e70de24bf",
-   "hash": "95d5e42a63e630d368f7cd98f45e2979ab766bf17203fe5bd3fc205cb59387c5",
+   "salt": "3f4b8597566ba7dcc3e75d9c4e715504",
+   "hash": "69c2c43f03736ac50460c3819c15dcd3e59784af1e1abee483dd01188787ae68",
    "exp": "2026-10-31",
    "note": "Ngọc",
    "devices": [
-    "E400-C8A4-B09B"
+    "27AC-2721-6807"
    ]
   }
  }

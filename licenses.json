@@ -1,12 +1,12 @@
 {
  "users": {
   "admin": {
-   "salt": "237121838875e77e5dc712de67ed01c6",
-   "hash": "8bdf561b3118a8bdc41cbdab2875a6119162159fbae28772e0a3da934625bf93",
+   "salt": "7a5313eb7df6a4c7bb756eee0599befc",
+   "hash": "7478668835ac352d5713a9d49fa64e9ea6945a742b8565bc98b163edd00a9546",
    "exp": "2052-10-24",
    "note": "",
    "devices": [
-    "9437-0574-B9A6"
+    "4A09-58C6-F958"
    ]
   }
  }

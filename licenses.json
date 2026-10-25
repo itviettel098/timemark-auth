@@ -1,8 +1,8 @@
 {
  "users": {
   "admin": {
-   "salt": "650851a33b626679d88b8c53dd87ad77",
-   "hash": "0b312cd253458e20c9f720b907ea553bc604122fba71e6c762c189f3523a688f",
+   "salt": "6f7ab2c2a10b1fae725c4de5661151d9",
+   "hash": "ce19296d98ce52b4499e690326ece1e7dca2c6c957547b460abaedc40a714e34",
    "exp": "2052-10-24",
    "note": "",
    "devices": [

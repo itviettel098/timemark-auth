@@ -8,6 +8,15 @@
    "devices": [
     "701D-DF8B-44BC"
    ]
+  },
+  "tranthidung": {
+   "salt": "fa0d37d714d4e46dab7da48ec96d377e",
+   "hash": "068c890ed8cf3eb85c47dd980136b228482cdaf4fef4a29c4fd324f3bd9a5a87",
+   "exp": "2124-10-31",
+   "note": "",
+   "devices": [
+    "B5CC-72A8-8BAC"
+   ]
   }
  }
 }
